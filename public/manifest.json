@@ -1,21 +1,21 @@
 {
-  "name": "Nextjs na pratica - Boilerplate",
-  "short_name": "React Avançado",
+  "name": "Homs",
+  "short_name": "Homs",
   "icons": [
     {
-      "src": "/img/icon-192.png",
-      "type": "image/png",
+      "src": "/img/favicon.ico",
+      "type": "image/ico",
       "sizes": "192x192"
     },
     {
-      "src": "/img/icon-512.png",
-      "type": "image/png",
+      "src": "/img/favicon.ico",
+      "type": "image/ico",
       "sizes": "512x512"
     }
   ],
-  "background_color": "#06092B",
-  "description": "Boilerlate utilizando Typescript, React, NextJS e Styled Components!",
+  "background_color": "#3AAFA9",
+  "description": "A project that will help people find places that are for sale or rent and will help people sell or rent their places",
   "display": "fullscreen",
   "start_url": "/",
-  "theme_color": "#06092B"
+  "theme_color": "#3AAFA9"
 }
